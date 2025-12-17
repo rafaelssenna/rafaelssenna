@@ -1,28 +1,26 @@
 # Rafael Sena
 
-**AI-First Developer** — Construo sistemas completos utilizando inteligência artificial como ferramenta principal de desenvolvimento.
+**AI-First Developer** — Arquiteto de soluções que utiliza IA generativa para acelerar entregas e escalar desenvolvimento.
 
 ---
 
 ### Sobre
 
-Desenvolvo soluções de software do zero ao deploy sem escrever código manualmente. Utilizo Claude, GPT e outras ferramentas de IA para acelerar o desenvolvimento e focar no que importa: resolver problemas reais.
+Especialista em construir sistemas completos com foco em velocidade e resultado. Domino o fluxo de desenvolvimento de ponta a ponta: arquitetura, integrações, banco de dados, APIs e deploy.
 
-Integrações de APIs, bancos de dados, web scraping, automações — tudo construído através de engenharia de prompt e ferramentas modernas.
+Minha abordagem combina engenharia de software com ferramentas de IA para entregar em dias o que levaria semanas. Menos retrabalho, mais produto funcionando.
 
 ---
 
 ### Projetos
 
-**[Paclead](https://paclead.com.br)** — Plataforma de IA para vendas com integrações de API, banco de dados e interface completa.
+**[Paclead](https://paclead.com.br)** — Plataforma de vendas com IA integrada. APIs, banco de dados e automações de ponta a ponta.
 
-**[Math](https://math.app.br)** — Sistema de gestão empresarial completo para Helsen Service. ERP com múltiplas integrações.
+**[Math](https://math.app.br)** — ERP completo para Helsen Service. Gestão empresarial com múltiplos módulos e integrações.
 
-**[SmartLeads](https://smartleadshia.com.br)** — Sistema de web scraping com Puppeteer para extração automatizada de contatos.
+**[SmartLeads](https://smartleadshia.com.br)** — Extração automatizada de leads via web scraping com Puppeteer.
 
-**Plataforma de Administração** — Dashboard para gestão e monitoramento de agentes de IA.
-
-**Luna** — Ferramenta para análise e visualização de conversas do WhatsApp.
+**Luna** — Analytics de conversas WhatsApp. Importação, visualização e análise de dados.
 
 ---
 
@@ -36,5 +34,5 @@ Integrações de APIs, bancos de dados, web scraping, automações — tudo cons
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-sena-roman-70b2b0356)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/senna.r__)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/rafael-sena-roman-70b2b0356)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/senna.r__)
