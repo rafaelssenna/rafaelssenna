@@ -16,7 +16,7 @@ Integrações de APIs, bancos de dados, web scraping, automações — tudo cons
 
 **[Paclead](https://paclead.com.br)** — Plataforma de IA para vendas com integrações de API, banco de dados e interface completa.
 
-**SmartLeads** — Sistema de web scraping com Puppeteer para extração automatizada de contatos.
+**[SmartLeads](https://smartleadshia.com.br)** — Sistema de web scraping com Puppeteer para extração automatizada de contatos.
 
 **Plataforma de Administração** — Dashboard para gestão e monitoramento de agentes de IA.
 
@@ -24,18 +24,34 @@ Integrações de APIs, bancos de dados, web scraping, automações — tudo cons
 
 ---
 
+### Stats
+
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelssenna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelssenna&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
 ### Stack
 
-```
-AI Tools       Claude · ChatGPT · Cursor · Claude Code
-Backend        Node.js · Python · APIs REST
-Frontend       JavaScript · React
-Database       PostgreSQL · MongoDB
-Infra          Docker · Vercel · AWS
-```
+<div>
+  <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</div>
 
 ---
 
 ### Contato
 
-[LinkedIn](https://br.linkedin.com/in/rafael-sena-roman-70b2b0356) · [Paclead](https://paclead.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-sena-roman-70b2b0356)
+[![Paclead](https://img.shields.io/badge/Paclead-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://paclead.com.br)
+[![SmartLeads](https://img.shields.io/badge/SmartLeads-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://smartleadshia.com.br)
