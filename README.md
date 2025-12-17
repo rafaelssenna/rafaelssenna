@@ -16,6 +16,8 @@ Integrações de APIs, bancos de dados, web scraping, automações — tudo cons
 
 **[Paclead](https://paclead.com.br)** — Plataforma de IA para vendas com integrações de API, banco de dados e interface completa.
 
+**[Math](https://math.app.br)** — Sistema de gestão empresarial completo para Helsen Service. ERP com múltiplas integrações.
+
 **[SmartLeads](https://smartleadshia.com.br)** — Sistema de web scraping com Puppeteer para extração automatizada de contatos.
 
 **Plataforma de Administração** — Dashboard para gestão e monitoramento de agentes de IA.
