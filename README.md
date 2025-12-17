@@ -37,5 +37,4 @@ Integrações de APIs, bancos de dados, web scraping, automações — tudo cons
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-sena-roman-70b2b0356)
-[![Paclead](https://img.shields.io/badge/Paclead-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://paclead.com.br)
-[![SmartLeads](https://img.shields.io/badge/SmartLeads-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://smartleadshia.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/senna.r__)
